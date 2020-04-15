@@ -8,7 +8,7 @@
 
 **购买/取消及购物车页面**
 
-![购买/取消](./static/images/goumai.gif)
+![购买/取消](./static/img/goumai.gif)
 
 ## 感谢
 
