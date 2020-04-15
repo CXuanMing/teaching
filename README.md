@@ -1,24 +1,23 @@
-# teaching
+# 基于Vue实现的仿购物平台的单页面应用
 
-## Project setup
-```
-yarn install
-```
+## 动图预览
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+**搜索页与首页**
 
-### Compiles and minifies for production
-```
-yarn build
-```
+![搜索页/首页](./static/img/sousuo.gif)
 
-### Lints and fixes files
-```
-yarn lint
-```
+**购买/取消及购物车页面**
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![购买/取消](./static/images/goumai.gif)
+
+## 感谢
+
+感谢您的来访 ，如果对于您有帮助 ，麻烦您使劲的给个Star吧 ！ ^_^
+
+## 技术栈
+
+*  vue-cli
+*  vue-router
+*  vuex
+*  axios
+*  sass
