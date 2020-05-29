@@ -8,11 +8,11 @@
 
 **搜索页与首页**
 
-![搜索页/首页](static/img/sousuo.gif)
+![搜索页/首页](/static/img/sousuo.gif)
 
 **购买/取消及购物车页面**
 
-![购买/取消](static/img/goumai.gif)
+![购买/取消](/static/img/goumai.gif)
 
 ## 感谢
 
